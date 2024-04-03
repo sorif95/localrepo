@@ -38,9 +38,7 @@
 }
 
 /*box2*/
-.nav_address{
 
-}
 
 .address_icon{
     display: flex;
@@ -102,9 +100,7 @@
 }
 
 /* box4 */
-.nav_sign_in{
-    
-}
+
 
 span{
     font-size: 0.7rem;
@@ -115,9 +111,7 @@ span{
 }
 
 /* box5 */
-.nav_return{
 
-}
 /* box6 */
 .nav_cart i{
     font-size: 30px;
@@ -138,9 +132,7 @@ span{
     justify-content: space-evenly;
 }
 
-.panel_all{
-    
-}
+
 .panel_ops{
     width: 70%;
     font-size: 0.85rem;
@@ -199,9 +191,7 @@ span{
     
 
 }
-.box1{
-    
-}
+
 .box_content{
     margin-left: 1rep;
     margin-right: 1rem;
@@ -216,15 +206,8 @@ span{
     margin-top: 1rem;
     margin-bottom: 1rem;margin-left: 1rem;
 }
-.box2{
 
-}
-.box3{
 
-}
-.box4{
-
-}
 
 /********************Footer*************************/
 footer{
